@@ -9,6 +9,6 @@ public class Departement {
     private ArrayList etudiantsInscrits;
 
     public Departement(String intitule, String adresse) {
-        
+
     }
 }
